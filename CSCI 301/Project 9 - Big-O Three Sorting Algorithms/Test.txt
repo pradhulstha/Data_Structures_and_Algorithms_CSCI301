@@ -1,0 +1,101 @@
+Hello, Today we are going to find the BIG-O for three sorting algorithms.
+
+-----------------------
+Press 'c' to continue and 'q' to Quit-> c
+.
+.
+.
+
+Enter the number of values to generate and sort, between 1 and 5000: 150
+Enter a random number seed: 10
+
+
+Print the List('y' for Yes and 'n' for No): n
+
+Insertion Sort: 5762
+
+Merge Sort: 1988
+
+Quick Sort: 1255
+-----------------------
+
+
+
+
+Press 'c' to continue and 'q' to Quit-> c
+.
+.
+.
+
+Enter the number of values to generate and sort, between 1 and 5000: 25
+Enter a random number seed: 5
+
+
+Print the List('y' for Yes and 'n' for No): y
+
+
+Insertion Sort:
+
+Unsorted Array:
+{ 5054, 8698, 7257, 9453, 7665, 6436, 8931, 7652, 7477, 7646, 5115, 8326, 8535, 7479, 5426, 9307, 6965, 5111, 7152, 6231, 7519, 5994, 6199, 8216, 5941, }
+
+Sorted Array:
+{ 0, 5054, 5111, 5115, 5426, 5941, 5994, 6199, 6231, 6436, 6965, 7152, 7257, 7477, 7479, 7519, 7646, 7652, 7665, 8216, 8326, 8535, 8698, 8931, 9307, }
+
+
+
+Merge Sort:
+
+Unsorted Array:
+{ 8853, 9352, 9086, 6927, 8131, 7454, 7970, 9959, 6113, 7254, 9617, 6122, 5490, 7583, 8236, 5391, 6011, 5956, 9587, 7520, 6520, 6865, 7417, 7648, 6618, }
+
+Sorted Array:
+{ 8853, 9352, 9086, 6927, 8131, 7454, 7970, 9959, 6113, 7254, 9617, 6122, 5490, 7583, 8236, 5391, 6011, 5956, 9587, 7520, 6520, 6865, 7417, 7648, 6618, }
+
+
+
+
+ Quick Sort:
+
+Unsorted Array:
+{ 6690, 5609, 5894, 6461, 7633, 7702, 7075, 5008, 5023, 5141, 5889, 9170, 8238, 9801, 8138, 8613, 8391, 6596, 8394, 9153, 5309, 5635, 7955, 7374, 8051, }
+
+Sorted Array:
+{ 5008, 5023, 5141, 5309, 5609, 5635, 5889, 5894, 6461, 6596, 6690, 7075, 7374, 7633, 7702, 7955, 8051, 8138, 8238, 8391, 8394, 8613, 9153, 9170, 9453, }
+
+Insertion Sort: 207
+
+Merge Sort: 2230
+
+Quick Sort: 1387
+-----------------------
+
+
+
+Press 'c' to continue and 'q' to Quit-> c
+.
+.
+.
+
+Enter the number of values to generate and sort, between 1 and 5000: 750
+Enter a random number seed: 42
+
+
+Print the List('y' for Yes and 'n' for No): n
+
+Insertion Sort: 147350
+
+Merge Sort: 14741
+
+Quick Sort: 10647
+-----------------------
+
+
+Press 'c' to continue and 'q' to Quit-> q
+.
+.
+.
+
+--------------------------------
+Process exited after 50.13 seconds with return value 0
+Press any key to continue . . .

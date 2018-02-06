@@ -33,13 +33,22 @@ Programming projects will be assigned regularly. Each is due at the beginning of
 
 About Programming Projects describes the parts of each project and includes links to the parts of an example project.
 
-#Project 1: Determine if an input string is a palindrome. Due Thursday, January 19.
-#Project 2: Implement an ordered list class using an array and exercise the class. Due Tuesday, January 31.
-#Project 3: Write and exercise three recursive functions. Due Thursday, February 9.
-#Project 4: Implement a concordance using a linked list. Due Tuesday, February 21.
-#Project 5: Implement an unordered-list ADT with a doubly-linked list and use it to solve a line-editing problem. Due Thursday, March 2.
-#Project 6: Implement several linked list operations recursively in the concordance class of Project 4. Due Thursday, March 16.
-#Project 7: Generate prime factorizations in descending order using a stack. Due Tuesday, March 28.
-#Project 8: Implement a queueing simulation that uses an array of queues. Due Thursday, April 6.
-#Project 9: Implement and compare three sorting algorithms. Due Tuesday, April 18.
-#Project 10: Implement a concordance using a binary search tree. Due Thursday, April 27.
+#Project 1: Determine if an input string is a palindrome.
+
+#Project 2: Implement an ordered list class using an array and exercise the class.
+
+#Project 3: Write and exercise three recursive functions.
+
+#Project 4: Implement a concordance using a linked list. 
+
+#Project 5: Implement an unordered-list ADT with a doubly-linked list and use it to solve a line-editing problem.
+
+#Project 6: Implement several linked list operations recursively in the concordance class of Project 4.
+
+#Project 7: Generate prime factorizations in descending order using a stack.
+
+#Project 8: Implement a queueing simulation that uses an array of queues. 
+
+#Project 9: Implement and compare three sorting algorithms.
+
+#Project 10: Implement a concordance using a binary search tree. 
